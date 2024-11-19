@@ -1,6 +1,9 @@
 # e_commerce
 
 updated skl-2
+![Screenshot_1732000491](https://github.com/user-attachments/assets/67f007e6-181f-49fd-9189-a2af5f9511df)
+
+
 
 A new Flutter project.
 
